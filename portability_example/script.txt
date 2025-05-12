@@ -1,0 +1,5 @@
+- What is a python virtual environment?
+- How to set up a python virtual environment
+- How to activate and install dependencies in install
+- How to dump all dependencies into a file
+- How to install all those dependencies in a different computer
