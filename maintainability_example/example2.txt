@@ -1,0 +1,7 @@
+> Um Curso de álgebra Linear; Flávio Ulhoa Coelho; ; 6
+> Cálculo: Volume 2; Maurice D. Weir; 1; 6
+> Álgebra Linear com Python; Rafael F.V.C. Santos; 2; 6
+> Introdução à Lógica Matemática; nome; 3; 5
+> Introdução à lógica - 2ª edição; Cezar A. Mortari; 4; 5
+> Equações Algébricas; S.B. Kizlik; 5; 5
+> Métodos de Cálculo; Timothy Ford; 6; 5
