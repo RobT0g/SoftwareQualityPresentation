@@ -1,7 +1,7 @@
 import hashlib
 
 USER_DB = {
-    "admin": hashlib.sha256("secure_password".encode()).hexdigest()
+    "admin": hashlib.sha256("1234".encode()).hexdigest()
 }
 
 def hash_password(password:str):
@@ -9,6 +9,12 @@ def hash_password(password:str):
 
 def login(user, password):
     if user in USER_DB and USER_DB[user] == hash_password(password):
-        return "Access granted"
+        print("Access granted")
     
-    return "Access denied"
+    else:
+        print("Access denied")
+
+user_id = input('Insert your user id: ')
+password = input('Insert your password: ')
+
+login(user_id, password)
